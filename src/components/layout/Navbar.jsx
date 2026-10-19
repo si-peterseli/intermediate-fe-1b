@@ -1,6 +1,6 @@
 import logo from '../../assets/images/logo.png';
 import logoSmall from '../../assets/images/logo-small.png';
-import avatar from '../../assets/images/avatar.png'
+import avatar from '../../assets/images/avatar.webp'
 
 export default function Navbar() {
   return (

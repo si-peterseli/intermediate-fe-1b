@@ -2,8 +2,8 @@ const initialFilmDatas = [
   {
     title: 'Don\'t Look Up',
     rating: 4.5,
-    cardImage: 'card/dont-look-up.png',
-    posterImage: null,
+    cardImage: 'card/dont-look-up.webp',
+    posterImage: 'poster/dont-look-up.webp',
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
     ageRating: '13+',
@@ -17,8 +17,8 @@ const initialFilmDatas = [
   {
     title: 'Blue Lock',
     rating: 4.6,
-    cardImage: 'card/blue-lock.png',
-    posterImage: null,
+    cardImage: 'card/blue-lock.webp',
+    posterImage: 'poster/blue-lock.webp',
     posterImage: null,
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
@@ -33,8 +33,8 @@ const initialFilmDatas = [
   {
     title: 'The Batman',
     rating: 4.2,
-    cardImage: 'card/the-batman.png',
-    posterImage: 'poster/the-batman.png',
+    cardImage: 'card/the-batman.webp',
+    posterImage: 'poster/the-batman.webp',
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
     ageRating: '13+',
@@ -48,8 +48,8 @@ const initialFilmDatas = [
   {
     title: 'A Man Called Otto',
     rating: 4.4,
-    cardImage: 'card/a-man-called-otto.png',
-    posterImage: 'poster/a-man-called-otto.png',
+    cardImage: 'card/a-man-called-otto.webp',
+    posterImage: 'poster/a-man-called-otto.webp',
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
     ageRating: '13+',
@@ -63,8 +63,8 @@ const initialFilmDatas = [
   {
     title: 'Suzune',
     rating: 4.5,
-    cardImage: null,
-    posterImage: 'poster/suzune.png',
+    cardImage: 'card/suzune.webp',
+    posterImage: 'poster/suzune.webp',
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
     ageRating: '13+',
@@ -78,8 +78,8 @@ const initialFilmDatas = [
   {
     title: 'Jurrasic World',
     rating: 4.5,
-    cardImage: 'card/jurrasic-world.png',
-    posterImage: 'poster/jurrasic-world.png',
+    cardImage: 'card/jurrasic-world.webp',
+    posterImage: 'poster/jurrasic-world.webp',
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
     ageRating: '13+',
@@ -93,8 +93,8 @@ const initialFilmDatas = [
   {
     title: 'Sonic 2',
     rating: 4.5,
-    cardImage: 'card/sonic-2.png',
-    posterImage: 'poster/sonic-2.png',
+    cardImage: 'card/sonic-2.webp',
+    posterImage: 'poster/sonic-2.webp',
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
     ageRating: '13+',
@@ -108,8 +108,8 @@ const initialFilmDatas = [
   {
     title: 'All Of Us Are Dead',
     rating: 4.5,
-    cardImage: 'card/all-of-us-are-dead.png',
-    posterImage: 'poster/all-of-us-are-dead.png',
+    cardImage: 'card/all-of-us-are-dead.webp',
+    posterImage: 'poster/all-of-us-are-dead.webp',
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
     ageRating: '13+',
@@ -123,8 +123,8 @@ const initialFilmDatas = [
   {
     title: 'Big Hero 6',
     rating: 4.5,
-    cardImage: 'card/big-hero-6.png',
-    posterImage: 'poster/big-hero-6.png',
+    cardImage: 'card/big-hero-6.webp',
+    posterImage: 'poster/big-hero-6.webp',
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
     ageRating: '13+',
@@ -138,8 +138,8 @@ const initialFilmDatas = [
   {
     title: 'The Tomorrow War',
     rating: 4.5,
-    cardImage: null,
-    posterImage: 'poster/the-tomorrow-war.png',
+    cardImage: 'card/the-tomorrow-war.webp',
+    posterImage: 'poster/the-tomorrow-war.webp',
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
     ageRating: '13+',
@@ -153,9 +153,8 @@ const initialFilmDatas = [
   {
     title: 'Quantumania',
     rating: 4.5,
-    cardImage: null,
-    cardImage: 'card/quantumania.png',
-    posterImage: 'poster/quantumania.png',
+    cardImage: 'card/quantumania.webp',
+    posterImage: 'poster/quantumania.webp',
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
     ageRating: '13+',
@@ -169,9 +168,8 @@ const initialFilmDatas = [
   {
     title: 'Guardian Of The Galaxy',
     rating: 4.5,
-    cardImage: null,
-    cardImage: 'card/guardian-of-the-galaxy.png',
-    posterImage: 'poster/guardian-of-the-galaxy.png',
+    cardImage: 'card/guardian-of-the-galaxy.webp',
+    posterImage: 'poster/guardian-of-the-galaxy.webp',
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
     ageRating: '13+',
@@ -185,9 +183,8 @@ const initialFilmDatas = [
   {
     title: 'The Little Mermaid',
     rating: 4.5,
-    cardImage: null,
-    cardImage: 'card/the-little-mermaid.png',
-    posterImage: 'poster/the-little-mermaid.png',
+    cardImage: 'card/the-little-mermaid.webp',
+    posterImage: 'poster/the-little-mermaid.webp',
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
     ageRating: '13+',
@@ -201,9 +198,8 @@ const initialFilmDatas = [
   {
     title: 'Duty After School',
     rating: 4.5,
-    cardImage: null,
-    cardImage: 'card/duty-after-school.png',
-    posterImage: 'poster/duty-after-school.png',
+    cardImage: 'card/duty-after-school.webp',
+    posterImage: 'poster/duty-after-school.webp',
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
     ageRating: '13+',
@@ -217,9 +213,8 @@ const initialFilmDatas = [
   {
     title: 'Missing',
     rating: 4.5,
-    cardImage: null,
-    cardImage: 'card/missing.png',
-    posterImage: 'poster/missing.png',
+    cardImage: 'card/missing.webp',
+    posterImage: 'poster/missing.webp',
     durationSeconds: 9180,
     genres: ['Misteri', 'Kriminal', 'Fantasi'],
     ageRating: '13+',
@@ -234,6 +229,6 @@ const initialFilmDatas = [
 
 export const getInitialFilmDatas = () => {
   return new Promise((resolve) => {
-    setTimeout(() => resolve(initialFilmDatas), 300);
+    setTimeout(() => resolve(initialFilmDatas), 100);
   });
 };
